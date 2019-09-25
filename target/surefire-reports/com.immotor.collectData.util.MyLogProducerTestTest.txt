@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.immotor.collectData.util.MyLogProducerTestTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 107.461 sec - in com.immotor.collectData.util.MyLogProducerTestTest

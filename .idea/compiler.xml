@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aliyun-java-sdk-fc" target="1.6" />
+      <module name="com.immotor.bigdata" target="1.8" />
+      <module name="com.immotor.collectionData" target="1.6" />
+      <module name="comimmotorcollectionData" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
