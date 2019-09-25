@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="com.immotor.report:war">
+    <output-path>$USER_HOME$/Downloads/smartBI-dev/target</output-path>
+    <root id="archive" name="com.immotor.report-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="com.immotor.report:war exploded" />
+    </root>
+  </artifact>
+</component>
